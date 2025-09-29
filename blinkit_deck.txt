@@ -1,0 +1,1 @@
+Blinkit Analytics - Presentation placeholder\n\nCreate a 10-slide deck: Problem, Dataset, Approach, KPIs, Top insights, Recommendations, Models, Impact, Next steps, Demo.
